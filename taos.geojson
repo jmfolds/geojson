@@ -13,6 +13,19 @@
           36.32309542573392
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Taos Cyclery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.57497620582579,
+          36.42853399982706
+        ]
+      }
     }
   ]
 }
