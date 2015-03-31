@@ -26,6 +26,19 @@
           36.42853399982706
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "casa betita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.59415936470032,
+          36.40750693853702
+        ]
+      }
     }
   ]
 }
