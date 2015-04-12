@@ -52,6 +52,19 @@
           36.37572891953887
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "G Robinson Old Prints & Maps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573561,
+          36.408165
+        ]
+      }
     }
   ]
 }
