@@ -65,6 +65,22 @@
           36.408165
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "Manby Hot Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.724162,
+          36.508243
+        ]
+      }
     }
   ]
 }
