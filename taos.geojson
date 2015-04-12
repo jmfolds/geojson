@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Rio Grande Gorge Recreation Area"
+        "id": "Rio Grande Gorge Recreation Area",
+        "marker-color": "#04F182"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Taos Cyclery"
+        "id": "Taos Cyclery",
+        "marker-color": "#AFEE1E"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "casa betita"
+        "id": "casa betita",
+        "marker-color": "#AFEE1E"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "South Boundary / Talpa Traverse Trails"
+        "id": "South Boundary / Talpa Traverse Trails",
+        "marker-color": "#04F182"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "G Robinson Old Prints & Maps"
+        "id": "G Robinson Old Prints & Maps",
+        "marker-color": "#AFEE1E"
       },
       "geometry": {
         "type": "Point",
@@ -69,8 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#8ECAF7",
+        "marker-size": "",
         "marker-symbol": "",
         "id": "Manby Hot Springs"
       },
@@ -85,7 +90,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Black Rock Parking?"
+        "id": "Black Rock Parking?",
+        "marker-color": "#8ECAF7",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +105,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Black Rock Hot Springs"
+        "id": "Black Rock Hot Springs",
+        "marker-color": "#8ECAF7"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +119,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Ojo Caliente Spa"
+        "id": "Ojo Caliente Spa",
+        "marker-color": "#8ECAF7"
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +133,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Italianos Canyon Parking"
+        "id": "Italianos Canyon Parking",
+        "marker-color": "#04F182"
       },
       "geometry": {
         "type": "Point",
