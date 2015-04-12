@@ -120,6 +120,19 @@
           36.304539
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Italianos Canyon Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.495655,
+          36.58445
+        ]
+      }
     }
   ]
 }
