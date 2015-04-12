@@ -107,6 +107,19 @@
           36.530673
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Ojo Caliente Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.051253,
+          36.304539
+        ]
+      }
     }
   ]
 }
