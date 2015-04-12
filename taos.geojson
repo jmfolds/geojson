@@ -81,6 +81,32 @@
           36.508243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Black Rock Parking?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.71204,
+          36.532613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Black Rock Hot Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.712152,
+          36.530673
+        ]
+      }
     }
   ]
 }
