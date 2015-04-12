@@ -39,6 +39,19 @@
           36.40750693853702
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "South Boundary / Talpa Traverse Trails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5465018749237,
+          36.37572891953887
+        ]
+      }
     }
   ]
 }
