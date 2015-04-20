@@ -143,6 +143,20 @@
           36.58445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Rio Grande Gorge Bridge",
+        "marker-color": "#8ECAF7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.73302268981934,
+          36.476653347723065
+        ]
+      }
     }
   ]
 }
