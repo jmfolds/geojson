@@ -157,6 +157,19 @@
           36.476653347723065
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "South Boundary start drop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.35432696342467,
+          36.35398335582326
+        ]
+      }
     }
   ]
 }
