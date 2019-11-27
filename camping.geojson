@@ -18,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "id": "Enderts Beach",
+        "url": "http://www.redwoodhikes.com/DelNorte/LastChance.html",
         "marker-color": "#AFEE1E"
       },
       "geometry": {
