@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NA-Dispersed1",
+        "marker-color": "#04F182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363790,
+          41.286981        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Enderts Beach",
+        "marker-color": "#AFEE1E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1426110,
+          41.7057690
+        ]
+      }
+    }
+  ]
+}
